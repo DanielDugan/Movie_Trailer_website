@@ -2,10 +2,10 @@
 Udacity Full Stack Project 1 Movie_Trailer_website
 
 #####Entertainment_center.py
-Entertainment_center.py was written by Daniel Dugan under the direction of for the Udacity Full Stack Project 1
+Entertainment_center.py was written by Daniel Dugan under the direction of Kunal Chawla for the Udacity Full Stack Project 1.
 
 #####media.py  
-media.py was written by Daniel Dugan under the direction of for the Udacity Full Stack Project 1
+media.py was written by Daniel Dugan under the direction of Kunal Chawla for the Udacity Full Stack Project 1
 
 ##### fresh_tomatoes.py 
 fresh_tomatoes.py created by Allan Reyes and edited by Daniel Dugan (ddfresh_tomatoes.py)
