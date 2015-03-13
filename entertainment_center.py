@@ -14,12 +14,10 @@ groundhog_day = media.Movie ("Groundhog Day",
 "http://upload.wikimedia.org/wikipedia/en/b/b1/Groundhog_Day_%28movie_poster%29.jpg",
 "www.youtube.com/watch?v=tSVeDx9fk60")
 
-
 life_is_beautiful = media.Movie ("Life is Beautiful",
 "A jewish immegrant in Italy makes the best of a dark time in history",
 "http://upload.wikimedia.org/wikipedia/en/7/7c/Vitaebella.jpg",
 "www.youtube.com/watch?v=16RZHqCIy9M")
-
 
 Indiana_Jones_L_C = media.Movie ("Indiana Jones and The Last Crusade",
 "The last great adventure movie featuring Indiana Jones. Featuring Nazis, Fathers and Sons, the Holy Grail and explosions.",
@@ -33,5 +31,5 @@ Airplane = media.Movie ("Airplane!",
 movies = [princess_bride, groundhog_day, life_is_beautiful, Indiana_Jones_L_C, Airplane]
 dd_fresh_tomatoes.open_movies_page(movies)
 # The above lines create an array of the movies described above and a call to open the generated fresh_tomatoes.html.
-""" entertainment_center is a student built portion of the Udemy Full Stack Nano Degree Project 1 "Movie Trailer Website"""
+""" entertainment_center is a student built portion of the Udacity Full Stack Nano Degree Project 1 "Movie Trailer Website"""
 
