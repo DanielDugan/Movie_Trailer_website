@@ -1,5 +1,5 @@
 # Movie_Trailer_website
-Udacity Full Stack Project 1 Movie Trailer website. I have written server-side code to store a list of my favorite movies, including box art imagery and a movie trailer URL. I then used your code to generate a static web page allowing visitors to browse their movies and watch the trailers. 
+Udacity Full Stack Project 1 Movie Trailer website. I have written server-side code to store a list of my favorite movies, including box art imagery and a movie trailer URL. I then subtly edited Allan Reyes' code to generate a static web page allowing visitors to browse their movies and watch the trailers. 
 
 #### Running the Movie_Trailer_website program
 0. Do you have python? If so, go to step one. If not, [download it here ](https://www.python.org/downloads/). This program was built in Python 2.7.9. If you need further assistance, feel free to reach out to me. Need great advice? Try out the [Nanodegrees at Udacity](https://www.udacity.com/nanodegree)
